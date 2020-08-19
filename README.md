@@ -1,15 +1,15 @@
 # Welcome 🙋🏻‍♂️
 
-### I'm Vatana Chhorn,
+### I'm អាំង ហុងស៊ីន,  AING HONGISN
 
-A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree in Software Engineering.
+A Frashman at Istitute of [Technology of Cambodia] (http://www.itc.edu.kh/en/)  in [Department Informationand Communication Egineering (GIC)] (https://gic.itc.edu.kh)
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
   <summary>I'm currently working on a couple of things besides the college. </summary>
   <ul>
     <br>
-    <li>Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.</li>
+  
     <li>Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
     <li>Looking forward to take a Web Development Course in future besides school curriculum.</li>
     <li>AInquiring more about UX/UI.</li>
