@@ -2,7 +2,7 @@
 
 ### I'm AING HONGISN, (អាំង ហុងស៊ីន)
 
-A Frashman at [Istitute of Technology of Cambodia] (http://www.itc.edu.kh/en/)  in [Department Informationand Communication Egineering (GIC)] (https://gic.itc.edu.kh)
+A Frashman at <a href="http://www.itc.edu.kh/en/">Institute of Technology of Cambodia</a>,  in <a href="https://gic.itc.edu.kh">Department Informationand Communication Egineering (GIC)</a>
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
@@ -10,10 +10,10 @@ A Frashman at [Istitute of Technology of Cambodia] (http://www.itc.edu.kh/en/)  
   <ul>
     <br>
   
-    <li>Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
-    <li>Looking forward to take a Web Development Course in future besides school curriculum.</li>
-    <li>AInquiring more about UX/UI.</li>
-    <li>🔜</li>
+    <li> Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
+    <li> Looking forward to take a Web Development Course in future besides school curriculum.</li>
+    <li> AInquiring more about UX/UI.</li>
+    <li> 🔜</li>
   </ul>
 </details>
 
@@ -22,11 +22,11 @@ A Frashman at [Istitute of Technology of Cambodia] (http://www.itc.edu.kh/en/)  
   <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
   <ul>
     <br>
-    <li>Learn to code 3-4 hours a day with no distraction ( One or two day off a week. )</li>
-    <li>Avoid over using social media</li>
-    <li>Read more books</li>
-    <li>Adopting the minimalism life style</li>
-    <li>🔜</li>
+    <li> Learn to code 3-4 hours a day with no distraction ( One or two day off a week. )</li>
+    <li> Avoid over using social media</li>
+    <li> Read more books</li>
+    <li> Adopting the minimalism life style</li>
+    <li> 🔜</li>
   </ul>
 </details>
 
