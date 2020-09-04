@@ -1,6 +1,6 @@
 # Welcome 🙋🏻‍♂️
 
-### I'm AING HONGISN, (អាំង ហុងស៊ីន)
+### I'm AING HONGSIN, (អាំង ហុងស៊ីន)
 
 A Frashman at <a href="http://www.itc.edu.kh/en/">Institute of Technology of Cambodia</a>,  in <a href="https://gic.itc.edu.kh">Department Informationand Communication Egineering (GIC)</a>
 
