@@ -9,7 +9,6 @@ A Frashman at <a href="http://www.itc.edu.kh/en/">Institute of Technology of Cam
   <summary>I'm currently working on a couple of things besides the college. </summary>
   <ul>
     <br>
-  
     <li> Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
     <li> Looking forward to take a Web Development Course in future besides school curriculum.</li>
     <li> AInquiring more about UX/UI.</li>
