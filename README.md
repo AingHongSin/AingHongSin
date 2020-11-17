@@ -34,7 +34,9 @@ A Frashman at <a href="http://www.itc.edu.kh/en/">Institute of Technology of Cam
 **Languages and Frameworks:**
 <p align="left">
   <code><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ikx9Rm55--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vlw06nl7olvor7e8fvn0.png" alt="Python" width="40" height="40" /></code>&nbsp;
+  
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
+    <code><img src="https://i.morioh.com/2020/04/23/49d98b5f5e3b.jpg" alt="Python Tkinter" width="40" height="40" /></code>&nbsp;
 </p>
 
 **Connect with me:**
