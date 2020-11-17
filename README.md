@@ -2,7 +2,7 @@
 
 ### I'm AING HONGSIN, (អាំង ហុងស៊ីន)
 
-A Frashman at <a href="http://www.itc.edu.kh/en/">Institute of Technology of Cambodia</a>,  in <a href="https://gic.itc.edu.kh">Department Informationand Communication Egineering (GIC)</a>
+A Frashman at <a href="http://www.itc.edu.kh/en/">Institute of Technology of Cambodia</a>,  in <a href="https://gic.itc.edu.kh">Department Information and Communication Egineering (GIC)</a>
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
