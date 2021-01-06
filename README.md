@@ -10,7 +10,6 @@ A sophomore at <a href="http://www.itc.edu.kh/en/">Institute of Technology of Ca
   <ul>
     <br>
     <li> Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
-    <li> Looking forward to take a Web Development Course in future besides school curriculum.</li>
     <li> AInquiring more about UX/UI.</li>
     <li> 🔜</li>
   </ul>
@@ -21,7 +20,7 @@ A sophomore at <a href="http://www.itc.edu.kh/en/">Institute of Technology of Ca
   <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
   <ul>
     <br>
-    <li> Learn to code 3-4 hours a day with no distraction ( One or two day off a week. )</li>
+    <li> Challenge 100 day of code for everday</li>
     <li> Avoid over using social media</li>
     <li> Read more books</li>
     <li> Adopting the minimalism life style</li>
