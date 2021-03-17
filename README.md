@@ -34,8 +34,14 @@ A sophomore at <a href="http://www.itc.edu.kh/en/">Institute of Technology of Ca
 <p align="left">
   <code><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ikx9Rm55--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vlw06nl7olvor7e8fvn0.png" alt="Python" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://i.morioh.com/2020/04/23/49d98b5f5e3b.jpg" alt="Python Tkinter" width="60" height="40" />
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40" />
 </code>&nbsp;
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="40" height="40" />
+</code>&nbsp;
+  <code><img src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="Bootstrap" width="40" height="40" />
+</code>&nbsp;
+
+
 </p>
 
 **Connect with me:**
