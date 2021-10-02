@@ -20,11 +20,9 @@ A sophomore at <a href="http://www.itc.edu.kh/en/">Institute of Technology of Ca
   <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
   <ul>
     <br>
-    <li> Challenge 100 day of code for everday</li>
-    <li> Avoid over using social media</li>
     <li> Read more books</li>
     <li> Adopting the minimalism life style</li>
-    <li> 🔜</li>
+    <li> Learn about swift5 for develope IOS Applications.</li>
   </ul>
 </details>
 
