@@ -1,20 +1,18 @@
 # Welcome 🙋🏻‍♂️
 
-### I'm AING HONGSIN, (អាំង ហុងស៊ីន)
+<h1 style="font-family:Azonix", align="center">AING HONGSIN</h1>
 
-A junior at <a href="http://www.itc.edu.kh/en/">Institute of Technology of Cambodia</a>,  in <a href="https://gic.itc.edu.kh">Department Information and Communication Egineering (GIC)</a>
+A junior at <a align="center" href="http://www.itc.edu.kh/en/">Institute of Technology of Cambodia</a>,  in <a href="https://gic.itc.edu.kh">Department Information and Communication Egineering (GIC)</a>
 
-<h1 align="center">My Statistic</h1>
+<h2 align="center">My Statistic</h2>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AingHongSin&theme=algolia" alt="AingHongSin" /></p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AingHongSin&show_icons=true&locale=en&theme=chartreuse-dark" alt="blank" width="410" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AingHongSin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="blank" />
  <br><br><br><br><br><br><br><br>
-
-**My Team**
-<p align="left">
-    <a href="https://github.com/DYNOMITE-TM" target="https://www.facebook.com/DynomiteTM"><img src="https://avatars.githubusercontent.com/u/82033024?s=200&v=4" alt="swift" width="40" height="40" /></code>&nbsp;
-</p>
+ 
+<h2 align="center">My Team</h2>
+<img src="https://scontent.fpnh3-1.fna.fbcdn.net/v/t1.6435-9/227532389_289041272978550_5688428403756198960_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=KFb51nU0RvkAX9cQBKt&_nc_ht=scontent.fpnh3-1.fna&oh=f63637c927f13e2fa5b64b031d681a89&oe=618C50DE" alt="Dynomite"/>
 
 **Languages and Frameworks:**
 <p align="left">
@@ -28,8 +26,6 @@ A junior at <a href="http://www.itc.edu.kh/en/">Institute of Technology of Cambo
 </code>&nbsp;
   <code><img src="https://seeklogo.com/images/S/swift-logo-E9182990F5-seeklogo.com.png" alt="swift" width="40" height="40" />
 </code>&nbsp;
-  
-  
 </p>
 
 **Connect with me:**
@@ -44,11 +40,5 @@ A junior at <a href="http://www.itc.edu.kh/en/">Institute of Technology of Cambo
 
  ---
   Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.
-
-
-
-
-  
-  
  <br>
   
