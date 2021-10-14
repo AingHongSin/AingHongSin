@@ -2,31 +2,19 @@
 
 ### I'm AING HONGSIN, (អាំង ហុងស៊ីន)
 
-A sophomore at <a href="http://www.itc.edu.kh/en/">Institute of Technology of Cambodia</a>,  in <a href="https://gic.itc.edu.kh">Department Information and Communication Egineering (GIC)</a>
+A junior at <a href="http://www.itc.edu.kh/en/">Institute of Technology of Cambodia</a>,  in <a href="https://gic.itc.edu.kh">Department Information and Communication Egineering (GIC)</a>
 
-<h3>💼 Things that I'm currently working on:</h3>
-<details>
-  <summary>I'm currently working on a couple of things besides the college. </summary>
-  <ul>
-    <br>
-    <li> Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
-    <li> AInquiring more about UX/UI.</li>
-    <li> 🔜</li>
-  </ul>
-</details>
+<h1 align="center">My Statistic</h1>
 
-### 🌱 Challenges that I’m currently challenging myself:
-<details>
-  <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
-  <ul>
-    <br>
-    <li> Read more books</li>
-    <li> Adopting the minimalism life style</li>
-    <li> Learn about swift5 for develope IOS Applications.</li>
-  </ul>
-</details>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AingHongSin&theme=algolia" alt="AingHongSin" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AingHongSin&show_icons=true&locale=en&theme=chartreuse-dark" alt="blank" width="410" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AingHongSin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="blank" />
+ <br><br><br><br><br><br><br>
 
-
+**My Team**
+<p align="left">
+    <a href="https://github.com/DYNOMITE-TM" target="https://www.facebook.com/DynomiteTM"><img src="https://avatars.githubusercontent.com/u/82033024?s=200&v=4" alt="swift" width="40" height="40" /></code>&nbsp;
+</p>
 
 **Languages and Frameworks:**
 <p align="left">
@@ -38,8 +26,10 @@ A sophomore at <a href="http://www.itc.edu.kh/en/">Institute of Technology of Ca
 </code>&nbsp;
   <code><img src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="Bootstrap" width="40" height="40" />
 </code>&nbsp;
-
-
+  <code><img src="https://seeklogo.com/images/S/swift-logo-E9182990F5-seeklogo.com.png" alt="swift" width="40" height="40" />
+</code>&nbsp;
+  
+  
 </p>
 
 **Connect with me:**
@@ -49,9 +39,16 @@ A sophomore at <a href="http://www.itc.edu.kh/en/">Institute of Technology of Ca
   <a href="https://twitter.com/AingSin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
   <a href="https://www.spotify.com/us/account/overview/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="kushal.bhanot.98" height="40" width="40" /></a>
   &nbsp;&nbsp;
- 
 
-Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.
+  <img src="https://komarev.com/ghpvc/?username=AingHongSin&label=Profile+Visits&color=dc143c"><br>
 
----
+ ---
+  Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.
 
+
+
+
+  
+  
+ <br>
+  
