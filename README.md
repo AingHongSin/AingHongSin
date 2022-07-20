@@ -10,9 +10,6 @@ A junior at <a align="center" href="http://www.itc.edu.kh/en/">Institute of Tech
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AingHongSin&show_icons=true&locale=en&theme=chartreuse-dark" alt="blank" width="410" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AingHongSin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="blank" />
  <br><br><br><br><br><br><br><br>
- 
-<h2 align="center">My Team</h2>
-<img src="https://scontent.fpnh3-1.fna.fbcdn.net/v/t1.6435-9/227532389_289041272978550_5688428403756198960_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=KFb51nU0RvkAX9cQBKt&_nc_ht=scontent.fpnh3-1.fna&oh=f63637c927f13e2fa5b64b031d681a89&oe=618C50DE" alt="Dynomite"/>
 
 **Languages and Frameworks:**
 <p align="left">
