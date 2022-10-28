@@ -12,7 +12,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Senior` at <a href = "https://gic.itc.edu.kh" >Information Communication .Egineering</a> at <a href="http://www.itc.edu.kh/en/" >Institute of Technology of cambodia</a>.
+- :school: I am a `Senior` at <a href = "https://gic.itc.edu.kh" >Information Communication Egineering</a> at <a href="http://www.itc.edu.kh/en/" >Institute of Technology of cambodia</a>.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a iOS developer at `Paraga` and `Dynomite`.
 - :student: I’m currently learning: `Computer Science` and `Natural Language Processing`.
