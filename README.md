@@ -1,3 +1,5 @@
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/b43ec296-cbcf-46f5-88b7-9493469447af" />
+
 # Hey there 👋, I’m Aing Hongsin  
 
 🚀 *iOS Developer • Builder • Problem Solver*  
